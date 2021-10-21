@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning flutter to switch to multiplatform development and also improving my android skills
 - 📝 Languages: Russian (native), English (B1)
 - 📫 How to reach me: [telegram](https://t.me/xiwanngmu)
-- 
+
 
 <!--
 **leserpenteau/leserpenteau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
