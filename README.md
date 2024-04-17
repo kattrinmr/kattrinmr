@@ -2,8 +2,7 @@
 
 ### 👩🏽‍💻 I'm Katerina. I'm interested in developing mobile applications.
 
-- 💻 I’m currently working using kotlin, making some pet projects
-- 🌱 I’m currently learning flutter to switch to multiplatform development and also I'm improving my Android skills
+- 💻 Tinkoff Android developer
 - 📝 Languages: Russian (native), English (B1)
 - 📫 How to reach me: [telegram](https://t.me/xiwanngmu)
 
